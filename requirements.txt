@@ -1,4 +1,25 @@
 ipykernel>=6
 jupyterlab==3.2.9
 jupyterlab-link-share
-xeus-python
+jupyterlab==v3.2.2
+jupyterlab-language-pack-pl-pl>=3.1.post5
+jupyterlab-language-pack-tr-TR>=3.1.post5
+jupyterlab-language-pack-el-GR>=3.1.post5
+jupyterlab-link-share
+# LSP
+jupyterlab-lsp
+jupyterlab-git
+jupyterlab-spellchecker
+jupyterlab-spreadsheet-editor
+gower==0.0.5
+scikit-learn
+plotnine
+umap-learn 
+statsmodels
+scipy
+matplotlib
+pandas
+ipympl
+Git>=2.x
+ipywidgets
+widgetsnbextension
