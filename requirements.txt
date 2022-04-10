@@ -1,3 +1,4 @@
+jupyterlab-git
 ipykernel>=6
 jupyterlab==3.2.9
 jupyterlab-language-pack-pl-pl>=3.1.post5
