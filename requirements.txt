@@ -18,6 +18,6 @@ scipy
 matplotlib
 pandas
 ipympl
-Git>=2.x
+Git
 ipywidgets
 widgetsnbextension
