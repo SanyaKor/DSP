@@ -1227,3 +1227,214 @@ TermSocket.open: Opened 5
 TermSocket.open: 6
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 6
+[W 18:38:09.541 NotebookApp] Culling 'idle' kernel 'python3' (bab00da6-5c00-4442-a3e8-6c45b946a87a) with 2 connections due to 637 seconds of inactivity.
+[I 18:38:09.542 NotebookApp] Kernel shutdown: bab00da6-5c00-4442-a3e8-6c45b946a87a
+[I 18:38:36.495 NotebookApp] Saving file at /L5.ipynb
+[W 18:38:36.495 NotebookApp] Notebook L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:39:41.905 NotebookApp] Kernel started: 192404b1-b8c6-4972-8933-67ff9771332f, name: python3
+[I 18:39:45.254 NotebookApp] Saving file at /L3/L3.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:39:50.192 NotebookApp] EOF on FD 42; stopping reading
+[I 18:39:50.293 NotebookApp] Terminal 1 closed
+not able to serialize: expected string or bytes-like object
+not able to serialize: expected string or bytes-like object
+[I 18:39:50.303 NotebookApp] EOF on FD 119; stopping reading
+[I 18:39:50.403 NotebookApp] Terminal 3 closed
+not able to serialize: expected string or bytes-like object
+[I 18:39:50.404 NotebookApp] EOF on FD 63; stopping reading
+[I 18:39:50.505 NotebookApp] Terminal 4 closed
+not able to serialize: expected string or bytes-like object
+[I 18:39:50.506 NotebookApp] EOF on FD 101; stopping reading
+[I 18:39:50.607 NotebookApp] Terminal 2 closed
+not able to serialize: expected string or bytes-like object
+not able to serialize: expected string or bytes-like object
+[I 18:39:50.608 NotebookApp] EOF on FD 65; stopping reading
+[I 18:39:50.709 NotebookApp] Terminal 5 closed
+not able to serialize: expected string or bytes-like object
+[I 18:39:50.710 NotebookApp] EOF on FD 43; stopping reading
+[I 18:39:50.810 NotebookApp] Terminal 6 closed
+not able to serialize: expected string or bytes-like object
+Websocket closed
+Websocket closed
+Websocket closed
+Websocket closed
+Websocket closed
+Websocket closed
+Websocket closed
+Websocket closed
+[I 18:40:34.806 NotebookApp] Creating new directory in 
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:40:36.971 NotebookApp] Saving file at /L5.ipynb
+[W 18:40:36.972 NotebookApp] Notebook L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 18:40:44.684 NotebookApp] Notebook L2/L2.ipynb is not trusted
+[I 18:40:45.387 NotebookApp] Kernel started: 6497406c-9b44-46e8-9851-c3e8d739234c, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:40:46.950 NotebookApp] Copying L2/L2.ipynb to /L2
+[W 18:40:46.964 NotebookApp] Notebook L2/L2.ipynb is not trusted
+[W 18:40:46.976 NotebookApp] Notebook L2/L2-Copy1.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 18:40:58.618 NotebookApp] Notebook L2/L2-Copy1.ipynb is not trusted
+[I 18:40:59.327 NotebookApp] Kernel started: c94961e6-3b10-444a-87ca-085b56bb2166, name: python3
+[I 18:41:32.837 NotebookApp] Saving file at /L3/L3.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:42:37.965 NotebookApp] Saving file at /L5.ipynb
+[W 18:42:37.966 NotebookApp] Notebook L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:42:45.293 NotebookApp] Saving file at /L2/L2.ipynb
+[W 18:42:45.294 NotebookApp] Notebook L2/L2.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:42:59.241 NotebookApp] Saving file at /L2/L2-Copy1.ipynb
+[W 18:42:59.242 NotebookApp] Notebook L2/L2-Copy1.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:43:14.229 NotebookApp] Saving file at /L1/L1.ipynb
+[W 18:43:14.229 NotebookApp] Notebook L1/L1.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:44:03.506 NotebookApp] Saving file at /L1/src_L1.ipynb
+[W 18:44:03.506 NotebookApp] Notebook L1/src_L1.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:44:38.448 NotebookApp] Saving file at /L5.ipynb
+[W 18:44:38.448 NotebookApp] Notebook L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:44:45.891 NotebookApp] Saving file at /L2/src_L2.ipynb
+[W 18:44:45.892 NotebookApp] Notebook L2/src_L2.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:44:59.802 NotebookApp] Saving file at /L2/L2.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:45:33.795 NotebookApp] Saving file at /L1/src_L1.ipynb
+[W 18:45:33.796 NotebookApp] Notebook L1/src_L1.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:46:39.256 NotebookApp] Saving file at /L5.ipynb
+[W 18:46:39.257 NotebookApp] Notebook L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:48:39.747 NotebookApp] Saving file at /L5.ipynb
+[W 18:48:39.748 NotebookApp] Notebook L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 18:48:48.370 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 18:49:55.168 NotebookApp] iopub messages resumed
+[I 18:50:40.239 NotebookApp] Saving file at /L5.ipynb
+[W 18:50:40.240 NotebookApp] Notebook L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:50:46.798 NotebookApp] Saving file at /L2/src_L2.ipynb
+[W 18:50:46.799 NotebookApp] Notebook L2/src_L2.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 18:51:09.540 NotebookApp] Culling 'idle' kernel 'python3' (192404b1-b8c6-4972-8933-67ff9771332f) with 1 connections due to 622 seconds of inactivity.
+[I 18:51:09.541 NotebookApp] Kernel shutdown: 192404b1-b8c6-4972-8933-67ff9771332f
+[I 18:52:24.746 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[I 18:52:40.805 NotebookApp] Saving file at /L5.ipynb
+[W 18:52:40.806 NotebookApp] Notebook L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:52:47.806 NotebookApp] Saving file at /L2/src_L2.ipynb
+[W 18:52:47.807 NotebookApp] Notebook L2/src_L2.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 18:54:41.304 NotebookApp] Saving file at /L5.ipynb
+[W 18:54:41.305 NotebookApp] Notebook L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 18:55:09.541 NotebookApp] Culling 'idle' kernel 'python3' (8a9bdf79-b507-413d-895f-35fa5d702b61) with 2 connections due to 654 seconds of inactivity.
+[I 18:55:09.543 NotebookApp] Kernel shutdown: 8a9bdf79-b507-413d-895f-35fa5d702b61
+[W 18:55:10.162 NotebookApp] Culling 'idle' kernel 'python3' (c94961e6-3b10-444a-87ca-085b56bb2166) with 1 connections due to 655 seconds of inactivity.
+[I 18:55:10.163 NotebookApp] Kernel shutdown: c94961e6-3b10-444a-87ca-085b56bb2166
