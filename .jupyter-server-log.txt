@@ -5303,3 +5303,641 @@ TermSocket.open: Opened 2
   return _iterencode(o, 0)
 /srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
   return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 19:01:40.634 NotebookApp] Notebook LABA_1_2_3_4_5_6_7.ipynb is not trusted
+[I 19:03:00.046 NotebookApp] Saving file at /LABA_1_2_3_4_5_6_7.ipynb
+[W 19:03:00.046 NotebookApp] Notebook LABA_1_2_3_4_5_6_7.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:05:43.062 NotebookApp] Saving file at /L1/src_L1.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:05:47.836 NotebookApp] Saving file at /L3/src_L3.ipynb
+[W 19:05:47.837 NotebookApp] Notebook L3/src_L3.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:05:50.572 NotebookApp] Kernel started: 867fc361-261d-4b30-8a16-7e11ea9b7201, name: python3
+[I 19:06:14.542 NotebookApp] Kernel shutdown: a598fa0c-26e4-4804-95b5-7149a6f44776
+[I 19:06:15.347 NotebookApp] Kernel shutdown: a3467a7b-d46a-4fd0-ab45-4fe06555616c
+[I 19:06:17.865 NotebookApp] Kernel shutdown: be50f260-fd60-4017-b88f-4e2a5cf6134a
+[I 19:06:18.053 NotebookApp] Saving file at /L3/src_L3.ipynb
+[W 19:06:18.054 NotebookApp] Notebook L3/src_L3.ipynb is not trusted
+[I 19:06:18.074 NotebookApp] Saving file at /L3/L3.ipynb
+[W 19:06:18.074 NotebookApp] Notebook L3/L3.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:06:23.868 NotebookApp] Kernel shutdown: 68af3d34-fbe2-46b0-9dac-b22466028908
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:06:25.332 NotebookApp] Kernel shutdown: fcd423d0-92cb-43d8-8fb3-0c7e990f2761
+[I 19:06:27.257 NotebookApp] Kernel shutdown: 867fc361-261d-4b30-8a16-7e11ea9b7201
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:08:01.071 NotebookApp] Kernel started: 99137909-65cf-4fa3-81be-44d10361bb51, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:08:17.637 NotebookApp] Saving file at /L5/L5.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:08:33.769 NotebookApp] Kernel started: d90a932b-4c28-4121-b9a4-818fda3e835b, name: python3
+[I 19:08:47.492 NotebookApp] Saving file at /L5/src_L5.ipynb
+[W 19:08:47.492 NotebookApp] Notebook L5/src_L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:09:59.407 NotebookApp] Saving file at /L5/L5.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:10:13.741 NotebookApp] Creating new directory in 
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:11:16.105 NotebookApp] Copying L1/src_L1.ipynb to /L7
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 19:11:40.783 NotebookApp] Culling 'idle' kernel 'python3' (aa624232-dd25-417d-b6a7-d639794422b8) with 1 connections due to 628 seconds of inactivity.
+[I 19:11:40.784 NotebookApp] Kernel shutdown: aa624232-dd25-417d-b6a7-d639794422b8
+[I 19:12:48.265 NotebookApp] Saving file at /L5/src_L5.ipynb
+[W 19:12:48.266 NotebookApp] Notebook L5/src_L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 2022-04-13 19:12:57.790 LabApp] Build is up to date
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 19:13:09.282 NotebookApp] Notebook LABA_1_2_3_4_5_6_7.ipynb is not trusted
+[I 19:14:00.367 NotebookApp] Saving file at /LABA_1_2_3_4_5_6_7.ipynb
+[W 19:14:00.369 NotebookApp] Notebook LABA_1_2_3_4_5_6_7.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:14:18.154 NotebookApp] Saving file at /L5/src_L5.ipynb
+[W 19:14:18.155 NotebookApp] Notebook L5/src_L5.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:14:23.182 NotebookApp] Kernel started: 9fa5dbd1-f0ed-42e3-98f4-1fafb6d6221d, name: python3
+[I 19:14:25.227 NotebookApp] Starting buffering for 9fa5dbd1-f0ed-42e3-98f4-1fafb6d6221d:28a7d755-6236-489f-b49a-d73bf1cb9024
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:15:36.264 NotebookApp] Kernel started: 0c1a54ae-b296-4144-bb5a-306a860468d7, name: python3
+[W 19:16:04.518 NotebookApp] Notebook L6/src_L6.ipynb is not trusted
+[I 19:16:05.252 NotebookApp] Kernel started: 72eac632-0e39-4aec-a58e-1ce06bc1b228, name: python3
+[I 19:16:18.063 NotebookApp] Saving file at /L6/L6.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 19:18:40.783 NotebookApp] Culling 'idle' kernel 'python3' (99137909-65cf-4fa3-81be-44d10361bb51) with 1 connections due to 603 seconds of inactivity.
+[I 19:18:40.784 NotebookApp] Kernel shutdown: 99137909-65cf-4fa3-81be-44d10361bb51
+[W 19:24:40.783 NotebookApp] Culling 'idle' kernel 'python3' (6b482cf8-2a1c-4ac4-8b0e-b88ac63b5cad) with 3 connections due to 613 seconds of inactivity.
+[I 19:24:40.784 NotebookApp] Kernel shutdown: 6b482cf8-2a1c-4ac4-8b0e-b88ac63b5cad
+[W 19:24:41.607 NotebookApp] Culling 'idle' kernel 'python3' (9fa5dbd1-f0ed-42e3-98f4-1fafb6d6221d) with 2 connections due to 615 seconds of inactivity.
+[I 19:24:41.608 NotebookApp] Kernel shutdown: 9fa5dbd1-f0ed-42e3-98f4-1fafb6d6221d
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:26:24.594 NotebookApp] Saving file at /L7/src_L7.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 19:26:40.783 NotebookApp] Culling 'idle' kernel 'python3' (d90a932b-4c28-4121-b9a4-818fda3e835b) with 1 connections due to 633 seconds of inactivity.
+[I 19:26:40.784 NotebookApp] Kernel shutdown: d90a932b-4c28-4121-b9a4-818fda3e835b
+[W 19:26:41.710 NotebookApp] Culling 'idle' kernel 'python3' (0c1a54ae-b296-4144-bb5a-306a860468d7) with 1 connections due to 639 seconds of inactivity.
+[I 19:26:41.711 NotebookApp] Kernel shutdown: 0c1a54ae-b296-4144-bb5a-306a860468d7
+[W 19:26:42.228 NotebookApp] Culling 'idle' kernel 'python3' (72eac632-0e39-4aec-a58e-1ce06bc1b228) with 1 connections due to 635 seconds of inactivity.
+[I 19:26:42.228 NotebookApp] Kernel shutdown: 72eac632-0e39-4aec-a58e-1ce06bc1b228
+[I 19:28:25.101 NotebookApp] Saving file at /L7/src_L7.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:30:47.936 NotebookApp] Creating new file in 
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 19:31:07.061 NotebookApp] 400 GET /user/sanyakor-dsp-od52auhg/api/contents/untitled.ipynb?type=notebook&content=1&1649878266909 (81.25.49.166): Unreadable Notebook: /home/jovyan/untitled.ipynb NotJSONError("Notebook does not appear to be JSON: ''...")
+[W 19:31:07.062 NotebookApp] Unreadable Notebook: /home/jovyan/untitled.ipynb NotJSONError("Notebook does not appear to be JSON: ''...")
+[W 19:31:07.063 NotebookApp] 400 GET /user/sanyakor-dsp-od52auhg/api/contents/untitled.ipynb?type=notebook&content=1&1649878266909 (81.25.49.166) 3.240000ms referer=https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/untitled.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:31:38.972 NotebookApp] Creating new notebook in 
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:31:40.534 NotebookApp] Kernel started: 819d60e0-2a44-4262-91db-cb10d5266cf7, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:33:40.935 NotebookApp] Saving file at /Untitled1.ipynb
+[W 19:33:40.937 NotebookApp] Notebook Untitled1.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:38:25.618 NotebookApp] Saving file at /L7/src_L7.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:40:26.117 NotebookApp] Saving file at /L7/src_L7.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:40:42.610 NotebookApp] Kernel started: 4642fd61-3fa7-4b4d-a42f-597fbf53f13d, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:41:53.271 NotebookApp] Saving file at /L1/src_L1.ipynb
+[W 19:41:53.272 NotebookApp] Notebook L1/src_L1.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:42:26.629 NotebookApp] Saving file at /L7/src_L7.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 19:42:40.784 NotebookApp] Culling 'idle' kernel 'python3' (819d60e0-2a44-4262-91db-cb10d5266cf7) with 1 connections due to 658 seconds of inactivity.
+[I 19:42:40.785 NotebookApp] Kernel shutdown: 819d60e0-2a44-4262-91db-cb10d5266cf7
+[I 19:44:27.148 NotebookApp] Saving file at /L7/src_L7.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[E 19:44:37.726 NotebookApp] Exception in callback functools.partial(<bound method YjsEchoWebSocket.hook_send_message of <jupyterlab.handlers.yjs_echo_ws.YjsEchoWebSocket object at 0x7f8b2820b6d0>>, b'\x01>\x01\xd4\xdd\xf7\x96\x0f\x85\x015{"user":{"name":"Anonymous Aitne","color":"#12A0D3"}}')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+        ret = callback()
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab/handlers/yjs_echo_ws.py", line 130, in hook_send_message
+        self.write_message(msg, binary=True)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/websocket.py", line 337, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 19:44:37.734 NotebookApp] Exception in callback functools.partial(<bound method YjsEchoWebSocket.hook_send_message of <jupyterlab.handlers.yjs_echo_ws.YjsEchoWebSocket object at 0x7f8b2820b6d0>>, b'\x01\x0c\x01\x8e\xdc\xc8\x0c\xcf\x01\x04null')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+        ret = callback()
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab/handlers/yjs_echo_ws.py", line 130, in hook_send_message
+        self.write_message(msg, binary=True)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/websocket.py", line 337, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 19:44:37.738 NotebookApp] Exception in callback functools.partial(<bound method YjsEchoWebSocket.hook_send_message of <jupyterlab.handlers.yjs_echo_ws.YjsEchoWebSocket object at 0x7f8b043f4f90>>, b'\x01Z\x02\x94\x98\x98\xfe\x0f\xef\x03\x04null\xc7\xbf\xf4\x96\x0e\x88\x01E{"user":{"name":"Anonymous Himalia","color":"#4BA749"},"cursor":null}')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+        ret = callback()
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab/handlers/yjs_echo_ws.py", line 130, in hook_send_message
+        self.write_message(msg, binary=True)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/websocket.py", line 337, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+Websocket closed
+[I 19:45:38.947 NotebookApp] Starting buffering for 4642fd61-3fa7-4b4d-a42f-597fbf53f13d:077e4fea-fce0-43fd-b872-ada558bf26c7
+[E 19:46:37.720 NotebookApp] Exception in callback functools.partial(<bound method YjsEchoWebSocket.hook_send_message of <jupyterlab.handlers.yjs_echo_ws.YjsEchoWebSocket object at 0x7f8ac4661250>>, b'\x01>\x01\xd4\xdd\xf7\x96\x0f\x88\x015{"user":{"name":"Anonymous Aitne","color":"#12A0D3"}}')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+        ret = callback()
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab/handlers/yjs_echo_ws.py", line 130, in hook_send_message
+        self.write_message(msg, binary=True)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/websocket.py", line 337, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 2022-04-13 19:47:00.903 LabApp] Build is up to date
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:02.631 NotebookApp] Saving file at /Untitled.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:03.185 NotebookApp] Saving file at /L1/src_L1.ipynb
+[W 19:47:03.333 NotebookApp] Notebook 1/1.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:03.991 NotebookApp] Saving file at /L5/src_L5.ipynb
+[I 19:47:04.039 NotebookApp] Kernel started: 66e04506-a155-45ce-acd0-bb2a60c746cf, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:04.417 NotebookApp] Saving file at /L1/L1.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:04.908 NotebookApp] Saving file at /L5/L5.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:05.288 NotebookApp] Kernel started: d26e6202-c985-4899-a4b2-f942ec085387, name: python3
+[I 19:47:05.432 NotebookApp] Saving file at /L6/L6.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:05.929 NotebookApp] Saving file at /L3/src_L3.ipynb
+[W 19:47:05.929 NotebookApp] Notebook L3/src_L3.ipynb is not trusted
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:06.835 NotebookApp] Saving file at /L3/L3.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[E 19:47:07.063 NotebookApp] Notebook JSON is invalid: Non-unique cell id 'b77d5871' detected. Corrected to 'a8e9aaff'.
+[W 19:47:07.066 NotebookApp] Notebook 2/2.ipynb is not trusted
+[I 19:47:07.523 NotebookApp] Kernel started: a8d1439b-26d0-4309-aa11-26c122f5c3f7, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 19:47:07.655 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[W 19:47:08.278 NotebookApp] Notebook LABA_1_2_3_4_5_6_7.ipynb is not trusted
+[I 19:47:08.654 NotebookApp] Kernel started: 1197425d-afcf-45a8-976c-b042920acfae, name: python3
+[I 19:47:08.771 NotebookApp] Kernel started: a85b0a7c-a514-469e-a130-c1698541e8e3, name: python3
+[I 19:47:09.069 NotebookApp] Saving file at /L2/src_L2.ipynb
+[I 19:47:09.672 NotebookApp] Kernel started: 150994ff-ed5e-45d2-8340-8345666b977e, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:10.362 NotebookApp] Starting buffering for 66e04506-a155-45ce-acd0-bb2a60c746cf:e46f4ad7-7ac8-4a66-b7a2-0a3f1b76ff61
+[E 19:47:10.371 NotebookApp] Uncaught exception GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879229912 (81.25.49.166)
+    HTTPServerRequest(protocol='https', host='hub.gke2.mybinder.org', method='GET', uri='/user/sanyakor-dsp-od52auhg/api/kernels?1649879229912', version='HTTP/1.1', remote_ip='81.25.49.166')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 31, in get
+        kernels = yield maybe_future(km.list_kernels())
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 384, in list_kernels
+        model = self.kernel_model(kernel_id)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 372, in kernel_model
+        "last_activity": isoformat(kernel.last_activity),
+    AttributeError: 'IOLoopKernelManager' object has no attribute 'last_activity'
+[W 19:47:10.372 NotebookApp] Unhandled error
+[E 19:47:10.372 NotebookApp] {
+      "Cookie": "username-hub-gke2-mybinder-org=\"2|1:0|10:1649879229|30:username-hub-gke2-mybinder-org|44:YjdiMzc1ZDI5NmViNGIyMThiZDVjZDM3ZWY4OTAxNzI=|0be0afe218bd003f1435da6c57afea978fe130eb28643a64c290ddbae5d93071\"; _xsrf=2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Referer": "https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "same-origin",
+      "Accept": "*/*",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36",
+      "Content-Type": "application/json",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "X-Xsrftoken": "2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Authorization": "token BmRJwP-6RfyI19ErWp05GQ",
+      "Sec-Ch-Ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Google Chrome\";v=\"100\"",
+      "X-Scheme": "https",
+      "X-Forwarded-Port": "443,80",
+      "X-Forwarded-Host": "hub.gke2.mybinder.org",
+      "X-Forwarded-Proto": "https,http",
+      "X-Forwarded-For": "81.25.49.166,::ffff:10.0.0.12",
+      "X-Real-Ip": "81.25.49.166",
+      "X-Request-Id": "6a107034ca7c924da84cea7a9f5bc799",
+      "Host": "hub.gke2.mybinder.org",
+      "Connection": "close"
+    }
+[E 19:47:10.372 NotebookApp] 500 GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879229912 (81.25.49.166) 11.670000ms referer=https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1
+[E 19:47:10.960 NotebookApp] Uncaught exception GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879230616 (81.25.49.166)
+    HTTPServerRequest(protocol='https', host='hub.gke2.mybinder.org', method='GET', uri='/user/sanyakor-dsp-od52auhg/api/kernels?1649879230616', version='HTTP/1.1', remote_ip='81.25.49.166')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 31, in get
+        kernels = yield maybe_future(km.list_kernels())
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 384, in list_kernels
+        model = self.kernel_model(kernel_id)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 372, in kernel_model
+        "last_activity": isoformat(kernel.last_activity),
+    AttributeError: 'IOLoopKernelManager' object has no attribute 'last_activity'
+[W 19:47:10.962 NotebookApp] Unhandled error
+[E 19:47:10.964 NotebookApp] {
+      "Cookie": "username-hub-gke2-mybinder-org=\"2|1:0|10:1649879230|30:username-hub-gke2-mybinder-org|44:NWFlYTkyMTNkYWNjNGU1M2E0MDlhY2MzODAyNTNkZDE=|39774151add730a839814b5da9c5fa72c23b32eec331c83ba704c8bb4a4f277b\"; _xsrf=2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Referer": "https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "same-origin",
+      "Accept": "*/*",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36",
+      "Content-Type": "application/json",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "X-Xsrftoken": "2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Authorization": "token BmRJwP-6RfyI19ErWp05GQ",
+      "Sec-Ch-Ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Google Chrome\";v=\"100\"",
+      "X-Scheme": "https",
+      "X-Forwarded-Port": "443,80",
+      "X-Forwarded-Host": "hub.gke2.mybinder.org",
+      "X-Forwarded-Proto": "https,http",
+      "X-Forwarded-For": "81.25.49.166,::ffff:10.0.0.12",
+      "X-Real-Ip": "81.25.49.166",
+      "X-Request-Id": "5eb4f450685ab26bba06a195f8c96420",
+      "Host": "hub.gke2.mybinder.org",
+      "Connection": "close"
+    }
+[E 19:47:10.964 NotebookApp] 500 GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879230616 (81.25.49.166) 9.900000ms referer=https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1
+[E 19:47:12.156 NotebookApp] Uncaught exception GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879231495 (81.25.49.166)
+    HTTPServerRequest(protocol='https', host='hub.gke2.mybinder.org', method='GET', uri='/user/sanyakor-dsp-od52auhg/api/kernels?1649879231495', version='HTTP/1.1', remote_ip='81.25.49.166')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 31, in get
+        kernels = yield maybe_future(km.list_kernels())
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 384, in list_kernels
+        model = self.kernel_model(kernel_id)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 372, in kernel_model
+        "last_activity": isoformat(kernel.last_activity),
+    AttributeError: 'IOLoopKernelManager' object has no attribute 'last_activity'
+[W 19:47:12.157 NotebookApp] Unhandled error
+[E 19:47:12.158 NotebookApp] {
+      "Cookie": "username-hub-gke2-mybinder-org=\"2|1:0|10:1649879231|30:username-hub-gke2-mybinder-org|44:MjNiNGRjODdhYjJhNGZhY2I5NzIzOWVmOTBlYzE0YWQ=|c239c3644e6d1c949313f7e610afdecc92d6a6e768d56a816d38e9828585b700\"; _xsrf=2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Referer": "https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "same-origin",
+      "Accept": "*/*",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36",
+      "Content-Type": "application/json",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "X-Xsrftoken": "2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Authorization": "token BmRJwP-6RfyI19ErWp05GQ",
+      "Sec-Ch-Ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Google Chrome\";v=\"100\"",
+      "X-Scheme": "https",
+      "X-Forwarded-Port": "443,80",
+      "X-Forwarded-Host": "hub.gke2.mybinder.org",
+      "X-Forwarded-Proto": "https,http",
+      "X-Forwarded-For": "81.25.49.166,::ffff:10.0.0.12",
+      "X-Real-Ip": "81.25.49.166",
+      "X-Request-Id": "4e2500bbb9e8d583662e140986bdeff6",
+      "Host": "hub.gke2.mybinder.org",
+      "Connection": "close"
+    }
+[E 19:47:12.158 NotebookApp] 500 GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879231495 (81.25.49.166) 193.100000ms referer=https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1
+[I 19:47:13.655 NotebookApp] Kernel started: ef81fba7-31a8-4869-93f1-6fc535a927e0, name: python3
+[I 19:47:13.976 NotebookApp] Kernel started: 7c6f28c0-5c4a-4753-bbdb-0cc15ac938ee, name: python3
+[I 19:47:14.558 NotebookApp] Kernel started: 4f4d488f-10ef-4094-bf96-da38bd3327a8, name: python3
+[I 19:47:15.064 NotebookApp] Kernel started: 864c21d9-b27b-4b4d-b1b0-a1b7e1383e90, name: python3
+[I 19:47:15.173 NotebookApp] Kernel started: 789e6f90-a82e-46aa-a845-733f1a42dd64, name: python3
+[I 19:47:15.275 NotebookApp] Kernel started: cab96f31-a1d9-471a-bd31-8f9aa3ea5989, name: python3
+[E 19:47:15.358 NotebookApp] Uncaught exception GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879234902 (81.25.49.166)
+    HTTPServerRequest(protocol='https', host='hub.gke2.mybinder.org', method='GET', uri='/user/sanyakor-dsp-od52auhg/api/kernels?1649879234902', version='HTTP/1.1', remote_ip='81.25.49.166')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 31, in get
+        kernels = yield maybe_future(km.list_kernels())
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 384, in list_kernels
+        model = self.kernel_model(kernel_id)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 372, in kernel_model
+        "last_activity": isoformat(kernel.last_activity),
+    AttributeError: 'IOLoopKernelManager' object has no attribute 'last_activity'
+[W 19:47:15.359 NotebookApp] Unhandled error
+[E 19:47:15.360 NotebookApp] {
+      "Cookie": "username-hub-gke2-mybinder-org=\"2|1:0|10:1649879234|30:username-hub-gke2-mybinder-org|44:NDVmYTRmYzEyN2MzNGVkOTlmMWJiNDFhMTVmN2IwMTc=|87274179803d281334ea65b671cd562e10642fd2b20fbf0fc16e53503989d2f8\"; _xsrf=2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Referer": "https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "same-origin",
+      "Accept": "*/*",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36",
+      "Content-Type": "application/json",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "X-Xsrftoken": "2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Authorization": "token BmRJwP-6RfyI19ErWp05GQ",
+      "Sec-Ch-Ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Google Chrome\";v=\"100\"",
+      "X-Scheme": "https",
+      "X-Forwarded-Port": "443,80",
+      "X-Forwarded-Host": "hub.gke2.mybinder.org",
+      "X-Forwarded-Proto": "https,http",
+      "X-Forwarded-For": "81.25.49.166,::ffff:10.0.0.12",
+      "X-Real-Ip": "81.25.49.166",
+      "X-Request-Id": "ca814976b987fc8fa3154e74aa77af48",
+      "Host": "hub.gke2.mybinder.org",
+      "Connection": "close"
+    }
+[E 19:47:15.360 NotebookApp] 500 GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879234902 (81.25.49.166) 96.130000ms referer=https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[E 19:47:16.569 NotebookApp] Uncaught exception GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879235810 (81.25.49.166)
+    HTTPServerRequest(protocol='https', host='hub.gke2.mybinder.org', method='GET', uri='/user/sanyakor-dsp-od52auhg/api/kernels?1649879235810', version='HTTP/1.1', remote_ip='81.25.49.166')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 31, in get
+        kernels = yield maybe_future(km.list_kernels())
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 384, in list_kernels
+        model = self.kernel_model(kernel_id)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 372, in kernel_model
+        "last_activity": isoformat(kernel.last_activity),
+    AttributeError: 'IOLoopKernelManager' object has no attribute 'last_activity'
+[W 19:47:16.655 NotebookApp] Unhandled error
+[E 19:47:16.658 NotebookApp] {
+      "Cookie": "username-hub-gke2-mybinder-org=\"2|1:0|10:1649879235|30:username-hub-gke2-mybinder-org|44:OTIyMjM0OWFhNDAyNGJhNWE3ZmIxZjhlYTBkYmVmMDc=|74c69029e161176e0e198c22fd09923b3fe7840353a1818477cc4a20c2a9d52d\"; _xsrf=2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Referer": "https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "same-origin",
+      "Accept": "*/*",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36",
+      "Content-Type": "application/json",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "X-Xsrftoken": "2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Authorization": "token BmRJwP-6RfyI19ErWp05GQ",
+      "Sec-Ch-Ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Google Chrome\";v=\"100\"",
+      "X-Scheme": "https",
+      "X-Forwarded-Port": "443,80",
+      "X-Forwarded-Host": "hub.gke2.mybinder.org",
+      "X-Forwarded-Proto": "https,http",
+      "X-Forwarded-For": "81.25.49.166,::ffff:10.0.0.12",
+      "X-Real-Ip": "81.25.49.166",
+      "X-Request-Id": "4dc9e0255dfd40fb6e46de21b8e68e2c",
+      "Host": "hub.gke2.mybinder.org",
+      "Connection": "close"
+    }
+[E 19:47:16.659 NotebookApp] 500 GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879235810 (81.25.49.166) 300.160000ms referer=https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[E 19:47:17.660 NotebookApp] Uncaught exception GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879237010 (81.25.49.166)
+    HTTPServerRequest(protocol='https', host='hub.gke2.mybinder.org', method='GET', uri='/user/sanyakor-dsp-od52auhg/api/kernels?1649879237010', version='HTTP/1.1', remote_ip='81.25.49.166')
+    Traceback (most recent call last):
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 31, in get
+        kernels = yield maybe_future(km.list_kernels())
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 384, in list_kernels
+        model = self.kernel_model(kernel_id)
+      File "/srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 372, in kernel_model
+        "last_activity": isoformat(kernel.last_activity),
+    AttributeError: 'IOLoopKernelManager' object has no attribute 'last_activity'
+[W 19:47:17.661 NotebookApp] Unhandled error
+[E 19:47:17.663 NotebookApp] {
+      "Cookie": "username-hub-gke2-mybinder-org=\"2|1:0|10:1649879236|30:username-hub-gke2-mybinder-org|44:ODE3OGE3ZTA0Njg3NGYyMmFkMTE1MzMyMzQ4N2ZlNDM=|9e1f9499aba87a11c8579eecf2600d10d9feabcdbf1025c6a8e941efac56b8b4\"; _xsrf=2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Referer": "https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "same-origin",
+      "Accept": "*/*",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36",
+      "Content-Type": "application/json",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "X-Xsrftoken": "2|6a86fcaa|2b895994129b0831795893fbd214c6dd|1649520275",
+      "Authorization": "token BmRJwP-6RfyI19ErWp05GQ",
+      "Sec-Ch-Ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Google Chrome\";v=\"100\"",
+      "X-Scheme": "https",
+      "X-Forwarded-Port": "443,80",
+      "X-Forwarded-Host": "hub.gke2.mybinder.org",
+      "X-Forwarded-Proto": "https,http",
+      "X-Forwarded-For": "81.25.49.166,::ffff:10.0.0.12",
+      "X-Real-Ip": "81.25.49.166",
+      "X-Request-Id": "074a686f11093d92da07263a9f214822",
+      "Host": "hub.gke2.mybinder.org",
+      "Connection": "close"
+    }
+[E 19:47:17.665 NotebookApp] 500 GET /user/sanyakor-dsp-od52auhg/api/kernels?1649879237010 (81.25.49.166) 97.040000ms referer=https://hub.gke2.mybinder.org/user/sanyakor-dsp-od52auhg/doc/tree/L1
+[I 19:47:17.775 NotebookApp] Kernel started: da0f8bc4-c1b1-4010-899e-53d1caef8408, name: python3
+[I 19:47:17.862 NotebookApp] Kernel started: 35898199-288d-4869-ade8-68d9db446a36, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:51.020 NotebookApp] Saving file at /L3/src_L3.ipynb
+[W 19:47:51.020 NotebookApp] Notebook L3/src_L3.ipynb is not trusted
+[I 19:47:51.179 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:47:51.200 NotebookApp] Saving file at /5/5.ipynb
+[I 19:47:51.454 NotebookApp] Saving file at /L1/L1.ipynb
+[I 19:47:51.488 NotebookApp] Saving file at /L3/L3.ipynb
+[W 19:47:51.488 NotebookApp] Notebook L3/L3.ipynb is not trusted
+[I 19:47:51.503 NotebookApp] Saving file at /L1/src_L1.ipynb
+[W 19:47:51.504 NotebookApp] Notebook L1/src_L1.ipynb is not trusted
+[I 19:47:51.537 NotebookApp] Saving file at /L5/src_L5.ipynb
+[W 19:47:51.537 NotebookApp] Notebook L5/src_L5.ipynb is not trusted
+[I 19:47:51.576 NotebookApp] Saving file at /L5/L5.ipynb
+[I 19:47:51.595 NotebookApp] Saving file at /L6/L6.ipynb
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:52.056 NotebookApp] Saving file at /2/2.ipynb
+[W 19:47:52.057 NotebookApp] Notebook 2/2.ipynb is not trusted
+[E 19:47:52.099 NotebookApp] Notebook JSON is invalid: Non-unique cell id '7db739bb' detected. Corrected to 'f607086f'.
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 19:47:57.821 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 3
