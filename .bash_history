@@ -60,3 +60,7 @@ git push
 git add .
 git commit -m "added some shit"
 git push
+pip install plotly
+git add .
+git commit -m "added l7"
+git push
