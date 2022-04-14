@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/sanyakor-dsp-pse3qvg0/",
+  "base_url": "/binder/jupyter/user/sanyakor-dsp-migdzuar/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
@@ -7,6 +7,6 @@
   "port": 8888,
   "secure": false,
   "sock": "",
-  "token": "Ti8Tw-PiRaKFqRPeDF4lxg",
-  "url": "http://0.0.0.0:8888/user/sanyakor-dsp-pse3qvg0/"
+  "token": "g1erSmqPRTGPk2Qy1fNveA",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/sanyakor-dsp-migdzuar/"
 }
